@@ -6,7 +6,7 @@ import org.junit.Test;
 import org.junit.Assert;
 
 import com.jayway.restassured.response.Response;
-import com.jayway.restassured.RestAssured.*;
+
 import com.jayway.restassured.matcher.RestAssuredMatchers.*;
 import static org.hamcrest.Matchers.*;
 import com.jayway.restassured.module.jsv.JsonSchemaValidator.*;
